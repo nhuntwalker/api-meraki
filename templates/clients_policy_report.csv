@@ -1,0 +1,2 @@
+usage,id,description,mdnsName,dhcpHostname,mac,ip,vlan,switchport,user
+"{'sent': 18.0, 'recv': 12.0}",0000000,example-iPhone,example-iPhone.local,example-iPhone,00:00:00:00:00:00,192.168.1.11,10,,example-user

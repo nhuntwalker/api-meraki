@@ -1,0 +1,13 @@
+{
+    "admins": [
+
+        {
+        "name": "Dexter Park",
+        "email": "ddexterpark@icloud.com",
+        "id": "",
+        "networks": [],
+        "tags": [],
+        "orgAccess": "full"
+    }
+    ]
+}

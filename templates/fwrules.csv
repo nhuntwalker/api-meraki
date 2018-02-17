@@ -1,0 +1,4 @@
+"policy","protocol","srcCidr","srcPort","destCidr","destPort","comment","logging"
+"allow","tcp","192.168.1.0/24","Any","192.168.0.10/32","80,443,8080","rule 1","False"
+"allow","tcp","192.168.1.0/24","Any","192.168.0.20/32","24,110","rule 2","False"
+"allow","tcp","192.168.1.0/24","Any","192.168.0.30/32","1000","rule 3","False"
